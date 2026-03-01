@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, i am roman podriza 👋
 
 <!--
 **romancoder2505/romancoder2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
